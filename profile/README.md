@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/PHP-%234A007B?style=plastic&logo=php&labelColor=white) ![](https://img.shields.io/badge/MySQL-%234A007B?style=plastic&logo=mysql&labelColor=white) ![](https://img.shields.io/badge/Linux-%234A007B?style=plastic&logo=linux&logoColor=black&labelColor=white)
 > 𝚇𝚌𝚊𝚙𝚒𝚝𝚊𝚕 𝚒𝚜 𝚊 𝚌𝚘𝚖𝚙𝚊𝚗𝚢 𝚝𝚑𝚊𝚝 𝚘𝚙𝚎𝚛𝚊𝚝𝚎𝚜 𝚠𝚒𝚝𝚑 𝚁𝙿𝚅 𝚊𝚗𝚍 𝙵𝚎𝚍𝚎𝚛𝚊𝚕 𝚙𝚛𝚎𝚌𝚊𝚝𝚘́𝚛𝚒𝚘𝚜 𝚜𝚎𝚛𝚟𝚒𝚌𝚎𝚜 𝚊𝚗𝚍 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚊𝚒𝚖𝚎𝚍 𝚊𝚝 𝚝𝚑𝚎 𝚊𝚗𝚝𝚒𝚌𝚒𝚙𝚊𝚝𝚒𝚘𝚗 𝚘𝚏 𝚝𝚑𝚎𝚜𝚎 𝚏𝚎𝚍𝚎𝚛𝚊𝚕 𝚛𝚎𝚌𝚎𝚒𝚟𝚊𝚋𝚕𝚎𝚜.
 
-[![Details](https://img.shields.io/badge/-See%20Details-blue "Details")](/projects/xcapital "Details") [![Details](https://img.shields.io/badge/-Website-purple "Details")](https://xcapitalpartners.com.br "Details")
+[![Details](https://img.shields.io/badge/-See%20Details-blue "Details")](https://github.com/lexitbr/lexitbr/tree/main/projects/xcapital "Details") [![Details](https://img.shields.io/badge/-Website-purple "Details")](https://xcapitalpartners.com.br "Details")
 
 #### 𝙻𝙶 𝙱𝚊𝚗𝚔
 ![](https://img.shields.io/badge/PHP-%234A007B?style=plastic&logo=php&labelColor=white) ![](https://img.shields.io/badge/MySQL-%234A007B?style=plastic&logo=mysql&labelColor=white) ![](https://img.shields.io/badge/Blockchain-%234A007B?style=plastic&logo=bitcoin&labelColor=white) ![](https://img.shields.io/badge/React%20Native-%234A007B?style=plastic&logo=react&labelColor=white) ![](https://img.shields.io/badge/Node-%234A007B?style=plastic&logo=nodedotjs&labelColor=white) ![](https://img.shields.io/badge/Linux-%234A007B?style=plastic&logo=linux&logoColor=black&labelColor=white) ![](https://img.shields.io/badge/Android%20App-%234A007B?style=plastic&logo=android&logoColor=green&labelColor=white) ![](https://img.shields.io/badge/iOS%20App-%234A007B?style=plastic&logo=ios&logoColor=black&labelColor=white)
@@ -25,4 +25,4 @@
 
 >𝚂𝚖𝚊𝚛𝚝 𝚋𝚘𝚝 𝚝𝚘 𝚊𝚗𝚊𝚕𝚢𝚣𝚎 𝚢𝚘𝚞𝚛 𝚍𝚎𝚏𝚒𝚗𝚎𝚍 𝚙𝚊𝚛𝚊𝚖𝚎𝚝𝚎𝚛𝚜 𝚊𝚗𝚍 𝚜𝚎𝚗𝚍 𝚒𝚗 𝚢𝚘𝚞𝚛 𝚝𝚎𝚕𝚎𝚐𝚛𝚊𝚖 𝚠𝚑𝚎𝚗 𝚏𝚒𝚗𝚍 𝚊 𝚙𝚊𝚝𝚝𝚎𝚛𝚗 𝚝𝚑𝚊𝚝 𝚢𝚘𝚞𝚛 𝚑𝚊𝚟𝚎 𝚍𝚎𝚏𝚒𝚗𝚎𝚍.
 
-[![Details](https://img.shields.io/badge/-See%20details-blue "Details")](/projects/bethelper "Details") [![Details](https://img.shields.io/badge/-Website-purple "Details")](https://bethelper.tips "Details")
+[![Details](https://img.shields.io/badge/-See%20details-blue "Details")](https://github.com/lexitbr/lexitbr/tree/main/projects/bethelper "Details") [![Details](https://img.shields.io/badge/-Website-purple "Details")](https://bethelper.tips "Details")
